@@ -34,7 +34,7 @@ lapply(list.of.packages, require, character.only = TRUE)
 # Créer un repertoire de travail                                                              #
 #**********************************************************************************************
 ## Créer Repertoire de travail 
-setwd("C:/Users/ines_/OneDrive/Documents/PC Iberia/Études Canada/Projet R")
+setwd("Ajouter Repertoire")
 
 #**************************************************
 # Importer les données                            #
